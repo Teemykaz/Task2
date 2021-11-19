@@ -1,0 +1,140 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+img {
+    width: 20px;
+}
+
+.nav-bar {
+    margin-top: 20px;
+}
+
+.nav-input {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    width: 600px;
+    height: 40px;
+    padding-top: 15px;
+    padding-left: 10px;
+    border-radius: 40px;
+}
+
+.nav-input input {
+    margin-left: 20px;
+    border: 0;
+    outline: 0;
+    margin-top: 5px;
+}
+
+.nav-buttons {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-buttons .nav-bar {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.udemy-logo {
+    text-decoration: solid;
+    font-size: 30px;
+}
+
+.black-friday {
+    background-image: url(./a303c795-6589-4ce9-bdda-b7aef7f09288.jpg);
+    height: 400px;
+    margin-top: 10px;
+}
+
+.black-fridaybox {
+    border: 1px solid red;
+    width: 300px;
+    height: 230px;
+    margin-left: 40px;
+    position: absolute;
+    top: 100px;
+    background-color: white;
+    padding: 10px 15px;
+    display: flex;
+    flex-direction: column;
+    border: 0px;
+    outline: 0px;
+}
+
+.Friday-box {
+    border: 1px solid black;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+
+.Friday-box input {
+    border: 0px;
+    outline: 0px;
+}
+
+.friday-text {
+    font-size: 20px;
+}
+
+.course-selection {
+    display: flex;
+    flex-direction: column;
+}
+
+.courses {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 10px;
+    margin-top: 20px;
+    width: 800px;
+}
+
+.python-container {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 20px;
+}
+
+.Python-career {
+    margin-bottom: 20px;
+    width: 800px;
+}
+
+.python-head {
+    margin: 0;
+}
+
+.Python-career button {
+    padding: 10px;
+    color: black;
+    background-color: white;
+    outline: 0;
+}
+
+.python-parts img {
+    width: 200px;
+    border: 1px solid black;
+}
+
+.pp1-price {
+    text-decoration: line-through;
+}
+
+.python-parts {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
