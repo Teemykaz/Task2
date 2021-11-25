@@ -138,3 +138,99 @@ img {
     flex-direction: row;
     justify-content: space-between;
 }
+
+.PP6 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #f0f6ff;
+    padding: 15px 15px;
+}
+
+.pp6i {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 300px;
+    /* margin-right: 200px; */
+}
+
+.pp6i img {
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.pp6ii {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 350px;
+    /* margin-right: 200px; */
+}
+
+.pp6ii img {
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.pp6iii {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 350px;
+    /* margin-right: 100px; */
+}
+
+.pp6iii img {
+    border: 1px solid black;
+    padding: 10px 10px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.python-parts button {
+    background-color: yellow;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.Python-part2 button {
+    background-color: yellow;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.Python-part2 img {
+    width: 200px;
+    border: 1px solid black;
+}
+
+.Python-part2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.python-three img {
+    width: 250px;
+}
+
+.python-three {
+    margin-top: 20px;
+}
+
+.Three {
+    display: flex;
+    flex-direction: row;
+}
+
+.four {
+    display: flex;
+    flex-direction: row;
+}
