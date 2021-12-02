@@ -41,9 +41,9 @@ img {
     margin-right: 10px;
 }
 
-.udemy-logo {
-    text-decoration: solid;
-    font-size: 30px;
+.udemy-logo img {
+    width: 90px;
+    padding-bottom: 10px;
 }
 
 .black-friday {
@@ -223,6 +223,7 @@ img {
 
 .python-three {
     margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .Three {
@@ -233,4 +234,224 @@ img {
 .four {
     display: flex;
     flex-direction: row;
+}
+
+.featured-topics {
+    padding: 20px 20px;
+    background-color: rgb(246, 249, 252);
+}
+
+.featured-topics .first-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 150px;
+}
+
+.featured-topics .second-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 80px;
+}
+
+.featured-topics .third-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 80px;
+}
+
+.featured-topics .fourth-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 80px;
+}
+
+.featured-topics button {
+    padding: 10px;
+    background-color: white;
+    outline: 0px;
+}
+
+.instructor {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 100px;
+    padding-top: 40px;
+}
+
+.instructor img {
+    width: 400px;
+}
+
+.instruction {
+    padding-top: 100px;
+    padding-left: 80px;
+}
+
+.instructor-words {
+    width: 300px;
+    font-size: 20px;
+}
+
+.instruction button {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    font-weight: 20px;
+}
+
+.Trusted {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    background-color: rgb(245, 246, 248);
+}
+
+.Trusted-companies {
+    margin-left: 550px;
+    padding-top: 10px;
+}
+
+.Trusted-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 450px;
+}
+
+.Trusted-logo img {
+    width: 50px;
+}
+
+.Trusted-logo div {
+    padding-right: 60px;
+}
+
+.udemy-business {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+.udemy-business .part-two img {
+    width: 400px;
+}
+
+.udemy-business .part-one img {
+    width: 300px;
+    padding-bottom: 10px;
+}
+
+.business-text {
+    width: 400px;
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+
+.udemy-business .part-one {
+    padding-top: 130px;
+    padding-right: 30px;
+}
+
+.udemy-business button {
+    padding: 15px 15px;
+    color: white;
+    background-color: black;
+    font-size: 15px;
+}
+
+.Transform {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.Transform img {
+    width: 400px;
+}
+
+.Transform-parttwo {
+    width: 350px;
+    padding-top: 60px;
+    padding-left: 70px;
+}
+
+.transform-text {
+    font-size: 20px;
+}
+
+.Transform-parttwo button {
+    margin-top: 20px;
+    padding: 10px 10px;
+    color: white;
+    background-color: black;
+    font-size: 15px;
+}
+
+footer {
+    color: white;
+    background-color: rgb(29, 28, 28);
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.footer-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.footer-list1,
+.footer-list2 {
+    padding-right: 60px;
+}
+
+.footer-list1 div,
+.footer-list2 div,
+.footer-list3 div {
+    padding-bottom: 10px;
+}
+
+.footer-button button {
+    border: 1px solid white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(29, 28, 28);
+    color: white;
+    padding-left: 10px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.footer-button button span {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.Footer-end img {
+    width: 10px;
+}
+
+.footer-img img {
+    width: 80px;
+}
+
+.Footer-end {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-top: 50px;
 }
